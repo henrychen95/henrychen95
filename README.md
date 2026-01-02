@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 結尾加上 &cache=1 強制更新
 -->
 
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats-chi-liart.vercel.app/api?username=henrychen95&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&cache=1.3" />
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats-chi-liart.vercel.app/api?username=henrychen95&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&cache=1.5" />
 <img alt="top lans" align="left" width="47%" src="https://github-readme-stats-chi-liart.vercel.app/api/top-langs/?username=henrychen95&layout=compact" />

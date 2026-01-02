@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+結尾加上 &cache=1 強制更新
 -->
 
-![GitHub Stats](https://github-readme-stats-chi-liart.vercel.app/api?username=henrychen95&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_rank=true)
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats-chi-liart.vercel.app/api?username=henrychen95&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&cache=1.1" />
+<img alt="top lans" align="left" width="47%" src="https://github-readme-stats-chi-liart.vercel.app/api/top-langs/?username=henrychen95&layout=compact" />

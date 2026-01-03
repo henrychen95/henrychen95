@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 <p align="center">
   <img alt="my stats" width="49%" valign="top" src="https://github-readme-stats-chi-liart.vercel.app/api?username=henrychen95&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&cache=1.6" />
   <img alt="top langs" width="49%" valign="top" src="https://github-readme-stats-chi-liart.vercel.app/api/top-langs/?username=henrychen95&layout=compact&cache=1.6" />
-</p>>
+</p>
